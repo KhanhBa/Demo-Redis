@@ -1,0 +1,15 @@
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\bin\Debug\net6.0\Demo.Business.deps.json
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\bin\Debug\net6.0\Demo.Business.dll
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\bin\Debug\net6.0\Demo.Business.pdb
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\bin\Debug\net6.0\Demo.Data.dll
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\bin\Debug\net6.0\Demo.Data.pdb
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.AssemblyReference.cache
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.AssemblyInfoInputs.cache
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.AssemblyInfo.cs
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.CoreCompileInputs.cache
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.csproj.CopyComplete
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.dll
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\refint\Demo.Business.dll
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\Demo.Business.pdb
+D:\Project\Net1710_221_2_ValuationDiamond\Source\DemoRedis\Demo.Business\obj\Debug\net6.0\ref\Demo.Business.dll
